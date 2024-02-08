@@ -41,7 +41,6 @@
   },
   "name": "bebita-sideral-product-card",
   "author": "Diego Pacori",
-  "module": "dist/dp-product-card.esm.js",
   "size-limit": [
     {
       "path": "dist/dp-product-card.cjs.production.min.js",
